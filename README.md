@@ -14,6 +14,8 @@ i want go home,,,
 
 go home~~~
 
+rego
+
 #65
 :fire
 
